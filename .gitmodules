@@ -1,0 +1,3 @@
+[submodule "IONOS_SUBMODULE"]
+	path = IONOS_SUBMODULE
+	url = https://github.com/ashokkbangaru/IONOS_SUBMODULE.git
